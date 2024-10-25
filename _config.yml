@@ -1,0 +1,10 @@
+remote_theme: pages-themes/midnight@v0.2.0
+
+title: [StoneHunter2020]
+description: [A site just about me.]
+
+show_downloads: [true]
+
+github:
+  zip_url: http://a.com
+  tar_url: http://a.com
