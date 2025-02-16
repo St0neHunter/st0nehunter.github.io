@@ -1,2 +1,2 @@
-# stonehunter2020.github.io
-A site just about me ;).
+# Stone Hunter
+A site a made for no reason
