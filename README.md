@@ -2,13 +2,13 @@
   - [Voidline](https://voidline.xyz/) Upcomming Minecraft Bedrock client keep your eyes peeled 👀 
 
 # Thinks I like doing online
-- Coding in C :heavy_plus_sign::heavy_plus_sign:
+- Coding in C➕➕
 - Reverse Engineering ⏮️
 - Playing games with friends 🎮
 
 # Games I like
-- Minecraft :100:
-- Portal 2 :jigsaw:
+- Minecraft 💯
+- Portal 2 🧩
 - Among Us 🔍
 
 # PC specs
