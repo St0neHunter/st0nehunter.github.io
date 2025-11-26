@@ -1,13 +1,28 @@
+# Current projects
+  - [Voidline](https://voidline.xyz/) Upcomming Minecraft Bedrock client keep your eyes peeled 👀 
 
-# cantact/stalk me
+# Thinks I like doing online
+- Coding in C :heavy_plus_sign::heavy_plus_sign:
+- Reverse Engineering ⏮️
+- Playing games with friends 🎮
+
+# Games I like
+- Minecraft :100:
+- Portal 2 :jigsaw:
+- Among Us 🔍
+
+# PC specs
+ - Nvidia Geforce RTX 4070 Super 💚
+ - AMD Ryzen 7 7800X3D 🔥
+ - Corsair Vengeance RGB CMH32GX5M2B6000Z30K ⛵
+ - Samsung 990 Pro 1TB ☄️
+
+# Cantact
  - Xbox gamertag
    > StoneHunter2020
  - Discord
    > stonehunter37
  - GitHub
    > st0nehunter
-
-# current projects
-  - [Flarial](https://flarial.xyz/)
-  - [Hive PBR]() (dont get to hyped it will take a while untill i rlease it if i ever will)
-
+- Epic Games
+  > StoneHunter37
