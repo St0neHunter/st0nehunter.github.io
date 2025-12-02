@@ -1,7 +1,10 @@
 # Current projects
-  - [Voidline](https://voidline.xyz/) Upcomming Minecraft Bedrock client keep your eyes peeled 👀 
+- [Voidline](https://voidline.xyz/) Upcomming Minecraft Bedrock client still in development check the link for more information 👀 
 
-# Thinks I like doing online
+# Current obsesion
+- Minecraft Legacy Console Edition 🥶
+
+# Things I like doing online
 - Coding in C➕➕
 - Reverse Engineering ⏮️
 - Playing games with friends 🎮
@@ -9,7 +12,9 @@
 # Games I like
 - Minecraft 💯
 - Portal 2 🧩
+- Stray 🐱
 - Among Us 🔍
+- Hogwarts Legacy 🏰
 
 # PC specs
  - Nvidia Geforce RTX 4070 Super 💚
